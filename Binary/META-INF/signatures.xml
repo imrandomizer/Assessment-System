@@ -1,0 +1,38 @@
+<signatures>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="PackageSignature">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/TR/xmldsig-core#rsa-sha1"/>
+      <Reference URI="#PackageContents">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>uUC6zaHsagu9mlMfQ96DuV52ohy6ipJKT62pt3wUGDM=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue Id="PackageSignatureValue">dO2ZCHOCJ2otpIn8GCx6f7V9nlmOW/zpnDisxQO8o2wOtIa8K9pvyP1StQB1ldYrSvi5hHzNI1ui
+scPt7BPY9O8TuZ4QYEh6GwzitKaJxEpdpOvuHD4vCEX4zIaD+09cgb7sLS8rKoCYEobKDFY1ozO5
+enfkS7P19+s3mrefbw8=</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIICJzCCAY+gAwIBAgIaNzdjYjY5MzM6MTRkZDIwNDNjZDM6LTgwMDAwDQYJKoZIhvcNAQEFBQAw
+QDELMAkGA1UEBhMCVVMxDDAKBgNVBAoTAzEyMzEMMAoGA1UECxMDMTIzMRUwEwYDVQQDEwxFWFBF
+UklNRU5UQUwwHhcNMTUwNjA3MDcxMzIzWhcNMjAwNjA4MDcxMzIzWjBAMQswCQYDVQQGEwJVUzEM
+MAoGA1UEChMDMTIzMQwwCgYDVQQLEwMxMjMxFTATBgNVBAMTDEVYUEVSSU1FTlRBTDCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAg36XARE4Ks7Z+v+xtMwuhxQjq9g4NYgEToAJwmcacXV8N78H
+QGF6wRrfXd/vpBTZ42aXNUp45bw+uhDtXXmJlEyUe4VIlHMcppmav9F+fh3zdxZpw4M9fL8DIRYM
+3wSCYNnSdSUOTpsAU37YxHhQT7SbriqFACey+IMDDiE/JacCAwEAAaMXMBUwEwYDVR0lBAwwCgYI
+KwYBBQUHAwMwDQYJKoZIhvcNAQEFBQADggCBAEAsTLsj4lDAQf94P26IPt0/+Dl+YLb0qV+PzOsi
+Bi+LXKpOz/DLgE27iLwDNCCzqWQqfgl/iXmaSoYFC9qOVvpQ4xm8qBTVwSv6+n+ixjX+B55DgKSP
+QCg/FrvaESGNahMvb+aqwyfKtM7ecZPcEmMOV+ohZwnKVHI4WWZTY158</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+    <Object>
+      <Manifest Id="PackageContents">
+        <Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>0/oCb84THKMagtI0Dy0KogEu92TegdesqRr/clXct1c=</DigestValue></Reference><Reference URI="META-INF/AIR/application.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>jtN81NaThWm7JME8SXQVsl+rGszsdrKe2S5ZC8lL3HE=</DigestValue></Reference><Reference URI="multiple_choice_quiz external version 3.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>GqUvl5fA4MscEIfM209NdAFYIeNGbSWXWU5uSNOlZEk=</DigestValue></Reference>
+      </Manifest>
+    </Object>
+    
+  </Signature>
+</signatures>

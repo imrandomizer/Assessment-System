@@ -1,0 +1,231 @@
+<QBANK>
+  <alignment>
+    <quesX>515.55</quesX>
+    <quesY>170.05</quesY>
+    <submitBtnX>798.3</submitBtnX>
+    <submitBtnY>367.35</submitBtnY>
+  </alignment>
+  <settings>
+    <noOfQues>4</noOfQues>
+    <sound>false</sound>
+    <dispInstantFeedback>true</dispInstantFeedback>
+  </settings>
+  <question id="1" type="MCQ">
+    <statement>Select 5 ,6 , 8 .</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>1</op>
+      <op>6</op>
+      <op>5</op>
+      <op>8</op>
+    </options>
+    <correct>8</correct>
+    <correct>6</correct>
+    <correct>5</correct>
+  </question>
+  <question id="2" type="MCQ">
+    <statement>Numbers divisible by 3</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>6</op>
+      <op>9</op>
+    </options>
+    <correct>6</correct>
+    <correct>9</correct>
+  </question>
+  <question id="3" type="MCQ">
+    <statement>x%5 = 0 , x = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>10</correct>
+    <correct>15</correct>
+    <correct>20</correct>
+  </question>
+  <question id="4" type="MCQ">
+    <statement>4+10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>14</op>
+      <op>20</op>
+    </options>
+    <correct>14</correct>
+  </question>
+  <question id="5" type="MCQ">
+    <statement>Select 25 and 96</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>96</op>
+      <op>25</op>
+      <op>20</op>
+    </options>
+    <correct>25</correct>
+    <correct>96</correct>
+  </question>
+  <question id="6" type="MCQ">
+    <statement>50+10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>60</op>
+      <op>20</op>
+    </options>
+    <correct>60</correct>
+  </question>
+  <question id="7" type="MCQ">
+    <statement>5+100 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>150</op>
+      <op>105</op>
+      <op>200</op>
+    </options>
+    <correct>105</correct>
+  </question>
+  <question id="8" type="MCQ">
+    <statement>6+3 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>9</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>9</correct>
+  </question>
+  <question id="9" type="MCQ">
+    <statement>10 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>20</correct>
+  </question>
+  <question id="10" type="DND">
+    <statement>Match with their countries.</statement>
+    <mutipleSelect>true</mutipleSelect>
+    <options>
+      <op>INDIA</op>
+      <op>USA</op>
+      <op>AUSTRALIA</op>
+    </options>
+    <correct>DELHI</correct>
+    <correct>WASHINGTON</correct>
+    <correct>CANBERRA</correct>
+  </question>
+  <question id="11" type="DND">
+    <statement>DROP AS SAID.</statement>
+    <mutipleSelect>true</mutipleSelect>
+    <options>
+      <op>IN 2</op>
+      <op>IN 3</op>
+    </options>
+    <correct>2</correct>
+    <correct>3</correct>
+  </question>
+  <question id="12" type="MCQ">
+    <statement>19 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>29</op>
+      <op>20</op>
+    </options>
+    <correct>29</correct>
+  </question>
+  <question id="13" type="MCQ">
+    <statement>100 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>110</op>
+      <op>20</op>
+    </options>
+    <correct>110</correct>
+  </question>
+  <question id="14" type="MCQ">
+    <statement>56 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>66</op>
+      <op>20</op>
+    </options>
+    <correct>66</correct>
+  </question>
+  <question id="15" type="MCQ">
+    <statement>500 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>10</op>
+      <op>510</op>
+    </options>
+    <correct>510</correct>
+  </question>
+  <question id="16" type="MCQ">
+    <statement>96 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>106</op>
+      <op>20</op>
+    </options>
+    <correct>106</correct>
+  </question>
+  <question id="17" type="MCQ">
+    <statement>99 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>109</op>
+      <op>20</op>
+    </options>
+    <correct>109</correct>
+  </question>
+  <question id="18" type="MCQ">
+    <statement>55 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>65</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>65</correct>
+  </question>
+  <question id="19" type="MCQ">
+    <statement>220 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>230</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>230</correct>
+  </question>
+  <question id="20" type="MCQ">
+    <statement>910 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>920</op>
+      <op>10</op>
+      <op>20</op>
+    </options>
+    <correct>920</correct>
+  </question>
+  <question id="21" type="MCQ">
+    <statement>560 + 10 = ?</statement>
+    <mutipleSelect>false</mutipleSelect>
+    <options>
+      <op>15</op>
+      <op>570</op>
+      <op>20</op>
+    </options>
+    <correct>570</correct>
+  </question>
+</QBANK>
